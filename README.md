@@ -24,8 +24,8 @@ O **meta_reader** surgiu da necessidade de analisar bit rate e bit depth de arqu
 
 1. Clone o repositório:
    
-   git clone https://github.com/lrpreuss/meta_reader.git
-   cd meta_reader
+   git clone `https://github.com/lrpreuss/meta_reader.git`
+   <br>cd meta_reader
 
 2. Instale as dependências:
 
@@ -33,7 +33,7 @@ O **meta_reader** surgiu da necessidade de analisar bit rate e bit depth de arqu
 
 3. Execute o script:
 
-   python meta_reader_dragdrop.py
+   python `meta_reader_dragdrop.py`
 
 4. Arraste um arquivo para dentro do terminal e pressione Enter. O código já é preparado para limpar os caminhos de aruqivo em sistemas operacionais Windows.
 
