@@ -1,0 +1,4 @@
+ffmpeg-python
+PyPDF2
+python-docx
+Pillow
