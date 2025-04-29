@@ -57,6 +57,6 @@ MIT License © lrpreuss
 
 Desenvolvido por Laís Ravache Preuss
 
-LinkedIn: linkedin.com/in/lais-r-preuss
+LinkedIn: [linkedin.com/in/lais-r-preuss](https://www.linkedin.com/in/lais-r-preuss/)
 
-GitHub: github.com/lrpreuss
+GitHub: [github.com/lrpreuss](https://github.com/lrpreuss)
